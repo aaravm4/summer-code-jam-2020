@@ -1,4 +1,4 @@
-<img src='horsecodejamlogo.png'>
+<img src='horsescodejamlogo.png'>
 
 <hr>
 
